@@ -1,8 +1,8 @@
 import 'dart:convert';
 import 'package:flutter_secure_storage/flutter_secure_storage.dart';
 import 'package:shared_preferences/shared_preferences.dart';
-import 'package:flutter_ssh_client/app/core/utils/logger.dart';
-import 'package:flutter_ssh_client/app/data/models/ssh_session.dart';
+import 'package:flutter_gshell/app/core/utils/logger.dart';
+import 'package:flutter_gshell/app/data/models/ssh_session.dart';
 
 class SessionService {
   static const String _sessionsKey = 'ssh_sessions';

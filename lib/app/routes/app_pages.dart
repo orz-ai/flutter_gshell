@@ -1,13 +1,13 @@
 import 'package:get/get.dart';
-import 'package:flutter_ssh_client/app/modules/home/bindings/home_binding.dart';
-import 'package:flutter_ssh_client/app/modules/home/views/home_view.dart';
-import 'package:flutter_ssh_client/app/modules/terminal/bindings/terminal_binding.dart';
-import 'package:flutter_ssh_client/app/modules/terminal/views/terminal_view.dart';
-import 'package:flutter_ssh_client/app/modules/sftp/bindings/sftp_binding.dart';
-import 'package:flutter_ssh_client/app/modules/sftp/views/sftp_view.dart';
-import 'package:flutter_ssh_client/app/modules/settings/bindings/settings_binding.dart';
-import 'package:flutter_ssh_client/app/modules/settings/views/settings_view.dart';
-import 'package:flutter_ssh_client/app/routes/app_routes.dart';
+import 'package:flutter_gshell/app/modules/home/bindings/home_binding.dart';
+import 'package:flutter_gshell/app/modules/home/views/home_view.dart';
+import 'package:flutter_gshell/app/modules/terminal/bindings/terminal_binding.dart';
+import 'package:flutter_gshell/app/modules/terminal/views/terminal_view.dart';
+import 'package:flutter_gshell/app/modules/sftp/bindings/sftp_binding.dart';
+import 'package:flutter_gshell/app/modules/sftp/views/sftp_view.dart';
+import 'package:flutter_gshell/app/modules/settings/bindings/settings_binding.dart';
+import 'package:flutter_gshell/app/modules/settings/views/settings_view.dart';
+import 'package:flutter_gshell/app/routes/app_routes.dart';
 
 class AppPages {
   static const INITIAL = Routes.HOME;

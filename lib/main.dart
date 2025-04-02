@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:flutter_ssh_client/app/routes/app_pages.dart';
-import 'package:flutter_ssh_client/app/core/theme/app_theme.dart';
-import 'package:flutter_ssh_client/app/core/utils/logger.dart';
-import 'package:flutter_ssh_client/app/core/services/init_services.dart';
+import 'package:flutter_gshell/app/routes/app_pages.dart';
+import 'package:flutter_gshell/app/core/theme/app_theme.dart';
+import 'package:flutter_gshell/app/core/utils/logger.dart';
+import 'package:flutter_gshell/app/core/services/init_services.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();

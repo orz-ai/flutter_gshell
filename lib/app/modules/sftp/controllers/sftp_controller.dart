@@ -1,6 +1,6 @@
 import 'package:get/get.dart';
-import 'package:flutter_ssh_client/app/data/models/ssh_session.dart';
-import 'package:flutter_ssh_client/app/data/services/ssh_service.dart';
+import 'package:flutter_gshell/app/data/models/ssh_session.dart';
+import 'package:flutter_gshell/app/data/services/ssh_service.dart';
 
 class SftpController extends GetxController {
   final SSHService _sshService = Get.find<SSHService>();

@@ -2,8 +2,8 @@ import 'dart:async';
 import 'dart:convert';
 import 'dart:typed_data';
 import 'package:dartssh2/dartssh2.dart';
-import 'package:flutter_ssh_client/app/core/utils/logger.dart';
-import 'package:flutter_ssh_client/app/data/models/ssh_session.dart' as app;
+import 'package:flutter_gshell/app/core/utils/logger.dart';
+import 'package:flutter_gshell/app/data/models/ssh_session.dart' as app;
 
 class SSHService {
   SSHClient? _client;
