@@ -4,7 +4,7 @@
 
 A modern, cross-platform SSH terminal management application built with Flutter.
 
-![GShell Screenshot](screenshots/main.png)
+![Snipaste_2025-04-03_05-32-00.png](Snipaste_2025-04-03_05-32-00.png)
 
 ## Features
 
